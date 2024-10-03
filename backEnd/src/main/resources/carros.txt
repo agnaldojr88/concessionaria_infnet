@@ -1,0 +1,2 @@
+1,Fusca,150000,30000.00,VW,Azul,true,false,true,1
+2,Corolla,50000,80000.00,Toyota,Prata,false,false,true,1
